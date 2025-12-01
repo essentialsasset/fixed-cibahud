@@ -139,7 +139,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"wrap"										"0"
-		"labelText"									"cibaHUD"
+		"labelText"									"CIBAHUD"
 		"textAlignment"								"west"	
 	}
 	

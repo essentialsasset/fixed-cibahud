@@ -25,7 +25,7 @@
 	}
 	"Create"
 	{
-		"label"										"create"
+		"label"										"host"
 		"command"									"OpenCreateMultiplayerGameDialog"
 	}
 	"Items"

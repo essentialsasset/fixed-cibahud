@@ -1235,7 +1235,7 @@
 		"zpos"			"2"
 		"wide"			"280"
 		"tall"			"280"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"	
 	}
 	
@@ -1412,7 +1412,7 @@
 	"ItemAttributeTracker"
 	{
 		"fieldName" 	"ItemAttributeTracker"
-		"visible" 		"1"
+		"visible" 		"0"
 		"enabled" 		"1"
 		"xpos"			"0"
 		"ypos"			"0"
